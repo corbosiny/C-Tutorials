@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473456461 source:c:\users\corey\c programs\c quick sort code along\main.c
+	<stdio.h>
+	<stdlib.h>
+

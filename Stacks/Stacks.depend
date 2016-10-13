@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473008178 source:c:\users\corey\c programs\stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

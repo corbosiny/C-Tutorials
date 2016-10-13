@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473389797 source:c:\users\corey\c programs\comb sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

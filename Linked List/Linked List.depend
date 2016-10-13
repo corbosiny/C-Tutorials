@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472953644 source:c:\users\corey\c programs\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

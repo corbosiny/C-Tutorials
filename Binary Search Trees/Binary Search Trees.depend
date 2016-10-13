@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473082874 source:c:\users\corey\c programs\binary search trees\main.c
+	<stdio.h>
+	<stdlib.h>
+
